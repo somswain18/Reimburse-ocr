@@ -15,6 +15,14 @@ To get started with Reimburse OCR, follow these steps:
 2. Install the required dependencies.
 3. Run the application.
 
+## Working
+1) OCR scans your Reciept.
+2) LLM summarizes your text.
+3) LLM extracts the grand total price and bill type. 
+4) Bill type and price adds to your file in drive.
+<img width="50%" src="images/graph.jpg">
+
+
 ## Add your files
 
 Upload your receipt or invoice files to the designated folder for processing.
