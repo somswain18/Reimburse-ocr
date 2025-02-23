@@ -1,4 +1,4 @@
-<img width="50%" src="images\elint_ai.jpg">
+<img width="50%" src="images/elint_ai.jpg">
 
 [ELINT AI](http://elintdata.ai/)
 # Reimburse OCR AI Agent
@@ -41,7 +41,7 @@ A tool for automating the extraction and processing of reimbursement data using 
 
 ## Visuals
 
-![alt text](images\working.jpg)
+![alt text](images/working.jpg)
 
 ## Installation
 
