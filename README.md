@@ -89,3 +89,6 @@ Elint AI
 
 This project is a community-driven initiative, actively developed and maintained by a passionate group of contributors. We welcome your involvement and encourage you to submit pull requests to enhance its functionality.
 
+## Powered by Elint Data
+<img width="50%" src="images\old_elint.png">
+
