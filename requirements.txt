@@ -101,4 +101,3 @@ langchain_openai
 langchain_groq
 pytesseract
 tesseract-ocr
-libtesseract-dev
